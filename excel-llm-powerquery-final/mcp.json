@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "excel-pq-server": {
+      "type": "stdio",
+      "command": "C:/Users/edwar/AppData/Local/Programs/Python/Python313/python.exe",
+      "args": ["mcp_excel_server.py"]
+    }
+  }
+}
