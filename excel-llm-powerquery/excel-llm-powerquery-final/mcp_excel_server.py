@@ -12,9 +12,9 @@ from fastmcp import FastMCP
 import win32com.client as win32
 import anthropic
 
-EXCEL_FILE_PATH = "C:\\Users\\edwar\\Documents\\Sales.xlsx"
-ANTHROPIC_KEY = "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"
-POWERQUERY_NAME = "Table1"
+EXCEL_FILE_PATH = "Add You Excel path"
+ANTHROPIC_KEY = "Add You API KEY"
+POWERQUERY_NAME = "Add your Table name"
 
 print("✅ Step 2: Initializing Claude  FastMCP")
 client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
