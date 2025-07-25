@@ -1,0 +1,3 @@
+update
+Create a column that returns "Pass" if [Score] >= 70, otherwise "Fail"
+Create a column that returns "High" if [Sales] > 1000, otherwise "Low"
